@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/akurniko/loveengmoscow-pub/issues"
   },
-  "homepage": "https://github.com/akurniko/loveengmoscow-pub#readme"
+  "homepage": "https://github.com/akurniko/loveengmoscow-pub#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
 }
