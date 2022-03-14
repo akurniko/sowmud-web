@@ -1,0 +1,23 @@
+{
+  "name": "loveengmoscow-pub",
+  "version": "1.0.0",
+  "description": "LoveEnglishMoscow Web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akurniko/loveengmoscow-pub.git"
+  },
+  "keywords": [
+    "English",
+    "School"
+  ],
+  "author": "Arseny Kurnikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akurniko/loveengmoscow-pub/issues"
+  },
+  "homepage": "https://github.com/akurniko/loveengmoscow-pub#readme"
+}
