@@ -4,8 +4,10 @@ ClojureScript based MUD client.
 
 # TODO
 
-Connect outside
+Connect outside.
 
-Check fly.io
+Check fly.io.
 
 Luvit at fly.
+
+Clojure Discord.
