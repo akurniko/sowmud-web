@@ -6,8 +6,6 @@ ClojureScript based MUD client.
 
 Connect outside.
 
-Check fly.io.
-
-Luvit at fly.
+Heroku for Clojure.
 
 Clojure Discord.
