@@ -9,6 +9,7 @@ Connect outside.
 Heroku for Clojure.
 
 Clojure Discord.
+Clojure IRC.
 
 Lyntin bots.
 
