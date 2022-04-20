@@ -25,3 +25,6 @@ https://github.com/markx/batman
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
+
+# WebSockets
+https://github.com/novnc/websockify-other
