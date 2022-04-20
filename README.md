@@ -2,6 +2,8 @@
 
 ClojureScript based MUD client.
 
+Bot for Discord and IRC.
+
 # TODO
 
 Connect outside.
