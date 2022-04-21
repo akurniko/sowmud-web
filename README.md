@@ -19,7 +19,7 @@ Overall model.
 
 Fly with virtual, CodeSignal with Clojure and Go, Codility.
 
-Security challenges.
+Security challenges (what to do with passwords and authentication).
 
 # Clojure MUD
 https://github.com/dhleong/rainboots
