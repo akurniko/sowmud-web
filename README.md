@@ -18,8 +18,10 @@ Lyntin bots.
 Overall model.
 
 Fly with virtual, CodeSignal with Clojure and Go, Codility.
+Does not seem to be happening.
 
 Security challenges (what to do with passwords and authentication).
+Real world security course.
 
 # Clojure MUD
 https://github.com/dhleong/rainboots
