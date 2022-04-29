@@ -1,7 +1,5 @@
 # Mud-web
 
-ClojureScript based MUD client.
-
 Bot for Discord and IRC.
 
 # TODO
