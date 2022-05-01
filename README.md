@@ -1,4 +1,4 @@
-# Mud-web
+# Mud-discord-gateway
 
 Bot for Discord and IRC.
 
