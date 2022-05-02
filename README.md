@@ -9,12 +9,6 @@ Heroku for Clojure.
 Clojure Discord.
 Clojure IRC.
 
-Fly with virtual, CodeSignal with Clojure and Go, Codility.
-Does not seem to be happening.
-
-Security challenges (what to do with passwords and authentication).
-Real world security course.
-
 # Clojure IRC
 https://github.com/obohrer/clj-irc
 
