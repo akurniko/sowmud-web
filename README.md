@@ -9,6 +9,8 @@ Heroku for Clojure.
 Clojure Discord.
 Clojure IRC.
 
+Heroku Hashicorp Vault
+
 # Clojure IRC
 https://github.com/obohrer/clj-irc
 
