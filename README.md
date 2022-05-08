@@ -9,7 +9,9 @@ Heroku for Clojure.
 Clojure Discord.
 Clojure IRC.
 
-Heroku Hashicorp Vault
+Heroku Hashicorp Vault.
+
+How to connect from Netlify.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
