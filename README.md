@@ -12,7 +12,7 @@ Clojure IRC.
 Heroku Hashicorp Vault.
 
 How to connect from Netlify.
-Server for Websocket.
+Server for Websocket from Netlify.
 Add parallel support between IRC and Discord.
 
 # Clojure IRC
@@ -41,10 +41,6 @@ $ heroku create
 $ git push heroku master
 $ heroku open
 ```
-
-or
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Documentation
 
