@@ -15,6 +15,8 @@ How to connect from Netlify.
 Server for Websocket from Netlify.
 Add parallel support between IRC and Discord.
 
+Running in the backend.
+
 # Clojure IRC
 https://github.com/obohrer/clj-irc
 
