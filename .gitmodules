@@ -1,0 +1,3 @@
+[submodule "clj-irc"]
+	path = clj-irc
+	url = https://github.com/obohrer/clj-irc
