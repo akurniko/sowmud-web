@@ -27,6 +27,7 @@ This application support the [Getting Started with Clojure](https://devcenter.he
 ## Running Locally
 
 Make sure you have Clojure installed.  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
+And Leiningen (or Clojure CLI tools).
 
 ```sh
 $ lein repl
