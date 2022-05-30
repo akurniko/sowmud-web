@@ -1,8 +1,8 @@
-(ns sowmud-web.core)
-  (:use [clj-irc.core]))
+(ns sowmud-web.core
+  (:require [clj-irc.core]))
 
-(defbot {:nick "sowmud-web" :host "libera.chat"
+(clj-irc.core/defbot {:nick "sowmud-web" :host "libera.chat"
          :channels ["#sowmud"]
          :auto-reconnect false}
-        (on-message {:keys [content]} reply-to {:regexp #"^test:.*"}
+        (clj-irc.core/on-message {:keys [content]} reply-to {:regexp #"^test:.*"}
           (reply-to (str "did you really say :" content))))
