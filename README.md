@@ -17,6 +17,8 @@ Add parallel support between IRC and Discord.
 
 Running in the backend.
 
+Okteto instead of Heroku maybe.
+
 # Clojure IRC
 https://github.com/obohrer/clj-irc
 
