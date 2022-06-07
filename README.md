@@ -16,6 +16,7 @@ Server for Websocket from Netlify.
 Add parallel support between IRC and Discord.
 
 Running in the backend.
+Test IRC bot.
 
 Okteto instead of Heroku maybe.
 
