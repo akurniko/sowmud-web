@@ -20,6 +20,8 @@ Test IRC bot.
 
 Okteto instead of Heroku maybe.
 
+Compare with Flyctl.
+
 # Clojure IRC
 https://github.com/obohrer/clj-irc
 
