@@ -1,5 +1,11 @@
 (ns sowmud-web.core
-  (:require [clj-irc.core sowmud-bot.core]))
+  (:require [clj-irc.core]
+            [clojure.edn :as edn]
+            [clojure.core.async :refer [chan close!]]
+            [discljord.messaging :as discord-rest]
+            [discljord.connections :as discord-ws]
+            [discljord.formatting :refer [mention-user]]
+            [discljord.events :refer [message-pump!]]))
 
 (clj-irc.core/defbot {:nick "sowmud-web" :host "irc.libera.chat"
          :channels ["#sowmud"]
