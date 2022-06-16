@@ -22,6 +22,7 @@ Okteto instead of Heroku maybe.
 
 Compare with Flyctl.
 Is any database needed?
+Clojure Spec alpha.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
