@@ -21,8 +21,9 @@ Test IRC bot.
 Okteto instead of Heroku maybe.
 
 Compare with Flyctl.
-Is any database needed?
-Clojure Spec alpha.
+Is any database needed? No.
+
+Clojure Spec alpha - need to upgrade to Clojure 1.9.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
