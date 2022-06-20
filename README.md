@@ -25,6 +25,7 @@ Is any database needed? No.
 
 Clojure Spec alpha - need to upgrade to Clojure 1.9.
 DS lib needs debugging of clojure.core/ident.
+Okteto expires.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
