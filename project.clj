@@ -7,5 +7,5 @@
                  [com.github.discljord/discljord "1.3.1"]
                  [org.clojure/spec.alpha "0.3.218"]]
 
-  :repl-options {:init-ns sowmud-web.core}
-  :main sowmud-web.core)
+  :repl-options {:init-ns sowmud-web.logging-bot}
+  :main sowmud-web.logging-bot)
