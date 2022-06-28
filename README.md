@@ -22,6 +22,7 @@ Okteto instead of Heroku maybe.
 Okteto expires.
 
 Compare with Flyctl.
+Debug Discljord.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
