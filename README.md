@@ -23,6 +23,7 @@ Okteto expires.
 
 Compare with Flyctl.
 Debug Discljord.
+How to run in background?
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
