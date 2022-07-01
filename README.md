@@ -25,6 +25,7 @@ Compare with Flyctl.
 Debug Discljord.
 How to run in background?
 100 functions on 1 data structure than 10 on 10.
+Clojure Clickhouse.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
