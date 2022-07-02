@@ -26,6 +26,7 @@ Debug Discljord.
 How to run in background?
 100 functions on 1 data structure than 10 on 10.
 Clojure Clickhouse.
+Go interfaces in Clojure.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
