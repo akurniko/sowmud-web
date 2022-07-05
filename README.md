@@ -18,15 +18,8 @@ Add parallel support between IRC and Discord.
 Running in the backend.
 Test IRC bot.
 
-Okteto instead of Heroku maybe.
-Okteto expires.
+Okteto.
 
-Compare with Flyctl.
-Debug Discljord.
-How to run in background?
-100 functions on 1 data structure than 10 on 10.
-Clojure Clickhouse.
-Go interfaces in Clojure.
 Symbol create in this context, need debugging.
 
 # Clojure IRC
