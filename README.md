@@ -4,6 +4,10 @@ Bot for Discord and IRC.
 
 # TODO
 
+Create relay between Discord and IRC.
+Get message from DS.
+And pass it to IRC.
+
 Clojure Discord and IRC.
 
 Use Okteto. Maybe Flyctl.
@@ -13,10 +17,6 @@ Try with real Discord token.
 Only can get it once, so need to restore it from backup.
 In progress. No content in the message. Token leaked and revoked.
 Need to read token from file.
-
-Create relay between Discord and IRC.
-Get message from DS.
-And pass it to IRC.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
