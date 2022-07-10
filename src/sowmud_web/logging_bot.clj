@@ -3,7 +3,7 @@
             [discljord.messaging :as discord-rest]
             [discljord.connections :as discord-ws]))
 
-(def token "TOKEN")
+(def token "")
 (def intents #{:guilds :guild-messages})
 
 (let [event-ch      (a/chan 100)
