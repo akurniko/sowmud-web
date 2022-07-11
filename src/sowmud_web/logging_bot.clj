@@ -7,8 +7,8 @@
 (def intents #{:guilds :guild-messages})
 
 (let [event-ch      (a/chan 100)
-      connection-ch (discord-rest/connect-bot! token event-ch :intents intents)
-      message-ch    (discord-ws/start-connection! token)]
+      connection-ch (discord-ws/connect-bot! token event-ch :intents intents)
+      message-ch    (discord-rest/start-connection! token)]
   (try
     (loop []
       (let [[event-type event-data] (a/<!! event-ch)]
@@ -17,6 +17,6 @@
         (println "Event data:" (pr-str event-data))
         (recur)))
     (finally
-      (discord-ws/stop-connection! message-ch)
-      (discord-rest/disconnect-bot!  connection-ch)
+      (discord-rest/stop-connection! message-ch)
+      (discord-ws/disconnect-bot! connection-ch)
       (a/close!           event-ch))))
