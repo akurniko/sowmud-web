@@ -6,6 +6,7 @@
 (def token "")
 (def intents #{:guilds :guild-messages})
 
+(def -main
 (let [event-ch      (a/chan 100)
       connection-ch (discord-ws/connect-bot! token event-ch :intents intents)
       message-ch    (discord-rest/start-connection! token)]
@@ -19,4 +20,4 @@
     (finally
       (discord-rest/stop-connection! message-ch)
       (discord-ws/disconnect-bot! connection-ch)
-      (a/close!           event-ch))))
+      (a/close!           event-ch)))))
