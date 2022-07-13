@@ -20,8 +20,6 @@ Test IRC bot.
 
 Okteto.
 
-Symbol create in this context, need debugging.
-
 # Clojure IRC
 https://github.com/obohrer/clj-irc
 
