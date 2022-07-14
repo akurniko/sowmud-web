@@ -20,6 +20,8 @@ Test IRC bot.
 
 Okteto.
 
+Lein REPL is not concurrent with Discord bot.
+
 # Clojure IRC
 https://github.com/obohrer/clj-irc
 
