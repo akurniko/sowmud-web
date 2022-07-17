@@ -6,7 +6,7 @@
 (def token "")
 (def intents #{:guilds :guild-messages})
 
-(defn -discord-bot []
+(defn -discord-bot! []
 (let [event-ch      (a/chan 100)
       connection-ch (discord-ws/connect-bot! token event-ch :intents intents)
       message-ch    (discord-rest/start-connection! token)]
