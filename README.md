@@ -12,6 +12,7 @@ Clojure IRC.
 Heroku Hashicorp Vault.
 
 How to connect from Netlify.
+No need, because it is enough to throw between IRC and Discord.
 Server for Websocket from Netlify.
 Add parallel support between IRC and Discord.
 
