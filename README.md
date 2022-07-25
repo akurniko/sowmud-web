@@ -4,15 +4,15 @@ Bot for Discord and IRC.
 
 # TODO
 
+Add parallel support between IRC and Discord.
+Channels and Clojure async.
+
 Heroku for Clojure.
 
 Clojure Discord.
 Clojure IRC.
 
 Heroku Hashicorp Vault.
-
-Add parallel support between IRC and Discord.
-Channels and Clojure async.
 
 Running in the backend.
 Test IRC bot.
