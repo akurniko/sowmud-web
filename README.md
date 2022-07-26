@@ -17,7 +17,7 @@ Heroku Hashicorp Vault.
 Running in the backend.
 Test IRC bot.
 
-Okteto.
+Okteto does not support outside connectivity?
 
 Lein REPL is not concurrent with Discord bot.
 Try with real token.
