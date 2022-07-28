@@ -10,15 +10,11 @@ Channels and Clojure async.
 Heroku for Clojure.
 
 Clojure Discord.
-Clojure IRC.
 
 Heroku Hashicorp Vault.
 
 Running in the backend.
 Test IRC bot.
-
-Okteto does not support outside connectivity?
-And we don't need it here.
 
 Lein REPL is not concurrent with Discord bot.
 Try with real token.
