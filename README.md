@@ -11,8 +11,6 @@ Heroku for Clojure.
 
 Clojure Discord.
 
-Heroku Hashicorp Vault.
-
 Running in the backend.
 Test IRC bot.
 
