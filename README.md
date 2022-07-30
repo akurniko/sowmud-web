@@ -12,10 +12,11 @@ Heroku for Clojure.
 Clojure Discord.
 
 Running in the backend.
-Test IRC bot.
-
 Lein REPL is not concurrent with Discord bot.
 Try with real token.
+
+Test IRC bot.
+Connects and works.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
