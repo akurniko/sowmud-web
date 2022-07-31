@@ -18,6 +18,8 @@ Try with real token.
 Test IRC bot.
 Connects and works.
 
+No need for Heroku?
+
 # Clojure IRC
 https://github.com/obohrer/clj-irc
 
