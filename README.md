@@ -16,7 +16,8 @@ Lein REPL is not concurrent with Discord bot.
 Try with real token.
 
 Test IRC bot.
-Connects and works.
+Connects and works and okay with REPL.
+Need to figure out how to make Discord bot behave the same.
 
 No need for Heroku?
 
