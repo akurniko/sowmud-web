@@ -20,6 +20,7 @@ Connects and works and okay with REPL.
 Need to figure out how to make Discord bot behave the same.
 
 No need for Heroku?
+Make Discljord work in REPL.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
