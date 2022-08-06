@@ -5,7 +5,7 @@ Bot for Discord and IRC.
 # TODO
 
 Add parallel support between IRC and Discord.
-Channels and Clojure async.
+Channels and Clojure async, like Go channel.
 
 Heroku for Clojure.
 No need for Heroku?
