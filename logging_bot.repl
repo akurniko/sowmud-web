@@ -20,3 +20,9 @@
       (discord-rest/stop-connection! message-ch)
       (discord-ws/disconnect-bot! connection-ch)
       (a/close!           event-ch))))
+
+(let [c (chan)]
+  (go (>! c "hello"))
+  (assert (= "hello" (<!! (go (<! c)))))
+  (close! c))
+
