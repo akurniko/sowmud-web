@@ -2,7 +2,6 @@
   (:require [clj-irc.core]
             [clojure.core.async :as a]
             [clojure.edn :as edn]
-            [discljord.formatting :refer [mention-user]]
             [discljord.events :refer [message-pump!]]))
 
 (defn msg_relay [c msg]
