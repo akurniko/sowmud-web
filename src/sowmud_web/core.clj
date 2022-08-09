@@ -6,7 +6,7 @@
 
 (defn msg_relay [c msg]
   (a/go (a/>! c msg))
-  (reply-to (str "did you really say:" (a/<!! (a/go (a/<! c))))))
+  (str "did you really say:" (a/<!! (a/go (a/<! c)))))
 
 (let [c (chan)]
   (clj-irc.core/defbot {:nick "sowmud-web" :host "irc.libera.chat"
@@ -14,6 +14,8 @@
            :auto-reconnect false}
           (clj-irc.core/on-message {:keys [content]} reply-to {:regexp #"^test:.*"}
             (msg_relay c content))))
+;; (add-handler (fn[m r]
+;;                  (r (str "You just said" (:content m)))))
 
 ;;  (go (>! c "hello"))
 ;;  (assert (= "hello" (<!! (go (<! c)))))
