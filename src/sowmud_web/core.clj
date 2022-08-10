@@ -8,7 +8,7 @@
   (a/go (a/>! c msg))
   (str "did you really say:" (a/<!! (a/go (a/<! c)))))
 
-(let [c (chan)]
+(let [c (a/chan)]
   (clj-irc.core/defbot {:nick "sowmud-web" :host "irc.libera.chat"
            :channels ["#sowmud"]
            :auto-reconnect false}
