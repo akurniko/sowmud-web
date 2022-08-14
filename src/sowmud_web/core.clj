@@ -11,19 +11,18 @@
   (println msg)
   (reply-to (str "did you really say:" (a/<!! (a/go (a/<! c))))))
 
-(let [c (a/chan)]
+(def token "")
+(def intents #{:guilds :guild-messages})
+
+(let [irc-ch        (a/chan)
+      event-ch      (a/chan 100)
+      connection-ch (discord-ws/connect-bot! token event-ch :intents intents)
+      message-ch    (discord-rest/start-connection! token)]
   (clj-irc.core/defbot {:nick "sowmud-web" :host "irc.libera.chat"
            :channels ["#sowmud"]
            :auto-reconnect false}
           (clj-irc.core/on-message {:keys [content]} reply-to {:regexp #"^test:.*"}
-            (msg_relay c content reply-to))))
-
-(def token "")
-(def intents #{:guilds :guild-messages})
-
-(let [event-ch      (a/chan 100)
-      connection-ch (discord-ws/connect-bot! token event-ch :intents intents)
-      message-ch    (discord-rest/start-connection! token)]
+            (msg_relay c content reply-to)))
   (a/go 
     (try
     (loop []
@@ -35,7 +34,8 @@
     (finally
       (discord-rest/stop-connection! message-ch)
       (discord-ws/disconnect-bot! connection-ch)
-      (a/close!           event-ch)))))
+      (a/close!           event-ch)
+      (a/close!           irc-ch)))))
 ;; (add-handler (fn[m r]
 ;;                  (r (str "You just said" (:content m)))))
 
