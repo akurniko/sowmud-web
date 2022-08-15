@@ -22,6 +22,7 @@ Test IRC bot.
 Connects and works and okay with REPL.
 
 Create relay.
+Get message from DS.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
