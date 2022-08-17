@@ -12,9 +12,6 @@ Add Heroku remote.
 
 Clojure Discord.
 
-Running in the backend.
-Lein REPL is not concurrent with Discord bot.
-Make Discljord work in REPL.
 Try with real token.
 
 Test IRC bot.
