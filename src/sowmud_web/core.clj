@@ -29,6 +29,7 @@
       (let [[event-type event-data] (a/<!! event-ch)]
         (println "í¾‰ NEW EVENT! í¾‰")
         (println "Event type:" event-type)
+        ;;(clj-irc.core/send even-data)
         (println "Event data:" (pr-str event-data))
         (recur)))
     (finally
