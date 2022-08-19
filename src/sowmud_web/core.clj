@@ -9,6 +9,7 @@
 (defn msg_relay [c msg reply-to]
   (a/go (a/>! c msg))
   (println msg)
+  ;;(discord-message msg)
   (reply-to (str "did you really say:" (a/<!! (a/go (a/<! c))))))
 
 (def token "")
