@@ -14,9 +14,6 @@ Clojure Discord.
 
 Try with real token.
 
-Test IRC bot.
-Connects and works and okay with REPL.
-
 Create relay.
 Get message from DS.
 
