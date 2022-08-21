@@ -41,6 +41,3 @@
 ;; (add-handler (fn[m r]
 ;;                  (r (str "You just said" (:content m)))))
 
-;;  (go (>! c "hello"))
-;;  (assert (= "hello" (<!! (go (<! c)))))
-;;  (close! c))
