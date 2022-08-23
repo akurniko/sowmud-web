@@ -12,6 +12,7 @@ Add Heroku remote.
 Clojure Discord.
 
 Try with real token.
+Only can get it once.
 
 Create relay.
 Get message from DS.
