@@ -31,11 +31,10 @@ And Leiningen (or Clojure CLI tools).
 
 ```sh
 $ lein repl
-user=> (require 'clojure-getting-started.web)
-user=> (def server (clojure-getting-started.web/-main))
+user=> (def bot (sowmud_web/core/bot))
 ```
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+Your app should now be connect to Libera chat.
 
 ## Deploying to Heroku
 
