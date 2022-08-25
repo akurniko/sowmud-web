@@ -34,7 +34,8 @@ $ lein repl
 user=> (def bot (sowmud_web/core/bot))
 ```
 
-Your app should now be connect to Libera chat.
+Your app should now be connected to Libera chat.
+It should also connect to Discord.
 
 ## Deploying to Heroku
 
