@@ -1,6 +1,7 @@
 # Mud-discord-gateway
 
 Bot for Discord and IRC.
+No need to connect from MUD.
 
 # TODO
 
