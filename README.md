@@ -7,8 +7,7 @@ No need to connect from MUD.
 
 Add parallel support between IRC and Discord.
 
-Heroku for Clojure.
-Add Heroku remote.
+Heroku is removing free dynos.
 
 Clojure Discord.
 
