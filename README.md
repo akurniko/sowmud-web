@@ -20,11 +20,7 @@ Get message from DS.
 # Clojure IRC
 https://github.com/obohrer/clj-irc
 
-# Heroku
-
-This application support the [Getting Started with Clojure](https://devcenter.heroku.com/articles/getting-started-with-clojure) article - check it out.
-
-## Running Locally
+# Running Locally
 
 Make sure you have Clojure installed.  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 And Leiningen (or Clojure CLI tools).
@@ -37,7 +33,7 @@ user=> (def bot (sowmud_web/core/bot))
 Your app should now be connected to Libera chat.
 It should also connect to Discord.
 
-## Deploying to Heroku
+# Deploying to Heroku
 
 ```sh
 $ heroku create
