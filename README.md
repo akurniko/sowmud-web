@@ -33,20 +33,6 @@ user=> (def bot (sowmud_web/core/bot))
 Your app should now be connected to Libera chat.
 It should also connect to Discord.
 
-# Deploying to Heroku
-
-```sh
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-
-## Documentation
-
-For more information about using Clojure on Heroku, see these Dev Center articles:
-
-- [Clojure on Heroku](https://devcenter.heroku.com/categories/clojure)
-
 # Debugging
 
 No create in this context.
