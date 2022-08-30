@@ -8,6 +8,7 @@ No need to connect from MUD.
 Add parallel support between IRC and Discord.
 
 Heroku is removing free dynos.
+Use Okteto.
 
 Clojure Discord.
 
