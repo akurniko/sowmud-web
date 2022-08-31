@@ -7,7 +7,6 @@ No need to connect from MUD.
 
 Add parallel support between IRC and Discord.
 
-Heroku is removing free dynos.
 Use Okteto.
 
 Clojure Discord.
@@ -34,6 +33,3 @@ user=> (def bot (sowmud_web/core/bot))
 Your app should now be connected to Libera chat.
 It should also connect to Discord.
 
-# Debugging
-
-No create in this context.
