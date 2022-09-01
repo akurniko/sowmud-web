@@ -7,7 +7,7 @@ No need to connect from MUD.
 
 Add parallel support between IRC and Discord.
 
-Use Okteto.
+Use Okteto. Maybe Flyctl.
 
 Clojure Discord.
 
