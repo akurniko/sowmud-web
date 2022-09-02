@@ -22,7 +22,7 @@ https://github.com/obohrer/clj-irc
 
 # Running Locally
 
-Make sure you have Clojure installed.  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
+Make sure you have Clojure installed.
 And Leiningen (or Clojure CLI tools).
 
 ```sh
