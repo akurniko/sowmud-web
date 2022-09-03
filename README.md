@@ -2,6 +2,7 @@
 
 Bot for Discord and IRC.
 No need to connect from MUD.
+But Netlify MUD client is still interesting.
 
 # TODO
 
