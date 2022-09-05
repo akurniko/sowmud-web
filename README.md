@@ -14,7 +14,7 @@ Helm.
 Clojure Discord.
 
 Try with real token.
-Only can get it once.
+Only can get it once, so need to restore it from backup.
 
 Create relay.
 Get message from DS.
