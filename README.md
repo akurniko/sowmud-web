@@ -7,6 +7,7 @@ But Netlify MUD client is still interesting.
 # TODO
 
 Add parallel support between IRC and Discord.
+Done with Go-like async package.
 
 Use Okteto. Maybe Flyctl.
 Helm and Kubernetes manifest.
