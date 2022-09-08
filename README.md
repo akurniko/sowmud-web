@@ -6,18 +6,18 @@ But Netlify MUD client is still interesting.
 
 # TODO
 
+Clojure Discord and IRC.
+
 Add parallel support between IRC and Discord.
 Done with Go-like async package.
 
 Use Okteto. Maybe Flyctl.
 Helm and Kubernetes manifest.
 
-Clojure Discord.
-
-Try with real token.
+Try with real Discord token.
 Only can get it once, so need to restore it from backup.
 
-Create relay.
+Create relay between Discord and IRC.
 Get message from DS.
 
 # Clojure IRC
