@@ -3,7 +3,6 @@
 Bot for Discord and IRC.
 No need to connect from MUD.
 But Netlify MUD client is still interesting.
-None of this happens it seems.
 Ngrok to throw in necr.
 
 # TODO
