@@ -6,6 +6,7 @@ But Netlify MUD client is still interesting.
 Ngrok to throw in necr.
 Combine the two, WebSockets.
 Stateless FP is somewhat unreachable.
+Should move this out of here and do coding.
 
 # TODO
 
