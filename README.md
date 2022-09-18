@@ -6,6 +6,7 @@ But Netlify MUD client is still interesting.
 Combine the two, WebSockets.
 Domain Driven Design.
 Types exist or not.
+Everything is string.
 
 # TODO
 
