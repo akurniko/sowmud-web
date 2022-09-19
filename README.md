@@ -7,6 +7,7 @@ Combine the two, WebSockets.
 Domain Driven Design.
 Types exist or not.
 Everything is string.
+But structure is needed.
 
 # TODO
 
