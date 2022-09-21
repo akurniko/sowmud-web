@@ -1,16 +1,10 @@
 # Mud-discord-gateway
 
 Bot for Discord and IRC.
-No need to connect from MUD.
-But Netlify MUD client is still interesting.
-Combine the two, WebSockets.
 
 # TODO
 
 Clojure Discord and IRC.
-
-Add parallel support between IRC and Discord.
-Done with Go-like async package.
 
 Use Okteto. Maybe Flyctl.
 Helm and Kubernetes manifest.
