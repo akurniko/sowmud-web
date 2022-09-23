@@ -11,6 +11,7 @@ Helm and Kubernetes manifest.
 
 Try with real Discord token.
 Only can get it once, so need to restore it from backup.
+In progress.
 
 Create relay between Discord and IRC.
 Get message from DS.
