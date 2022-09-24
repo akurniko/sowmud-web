@@ -15,6 +15,7 @@ In progress.
 
 Create relay between Discord and IRC.
 Get message from DS.
+And pass it to IRC.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
