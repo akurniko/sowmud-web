@@ -23,7 +23,7 @@
            :channels ["#sowmud"]
            :auto-reconnect false}
           (clj-irc.core/on-message {:keys [content]} reply-to {:regexp #"^test:.*"}
-            (msg_relay c content reply-to)))
+            (msg_relay message-ch content reply-to)))
   (a/go 
     (try
     (loop []
