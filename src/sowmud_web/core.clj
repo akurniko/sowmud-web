@@ -31,7 +31,7 @@
         (println "í¾‰ NEW EVENT! í¾‰")
         (println "Event type:" event-type)
         ;;(clj-irc.core/send even-data)
-        (println "Event data:" (pr-str event-data))
+        (println "Event data:" (pr-str (:content event-data)))
         (recur)))
     (finally
       (discord-rest/stop-connection! message-ch)
