@@ -26,7 +26,6 @@ And Leiningen (or Clojure CLI tools).
 
 ```sh
 $ lein repl
-user=> (def bot (sowmud_web/core/bot))
 ```
 
 Your app should now be connected to Libera chat and Discord.
