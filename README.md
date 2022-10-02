@@ -15,6 +15,7 @@ Use Okteto. Maybe Flyctl.
 Helm and Kubernetes manifest.
 
 Need to read token from file.
+There was a commit like this.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
