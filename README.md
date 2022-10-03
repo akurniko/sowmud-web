@@ -19,6 +19,7 @@ There was a commit like this.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
+Clojure IRC is working.
 
 # Running Locally
 
