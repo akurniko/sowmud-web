@@ -12,7 +12,7 @@
   ;;(discord-message msg)
   (reply-to (str "did you really say:" (a/<!! (a/go (a/<! c))))))
 
-(def token "")
+(def token (slurp "token"))
 (def intents #{:guilds :guild-messages})
 
 (let [irc-ch        (a/chan)
