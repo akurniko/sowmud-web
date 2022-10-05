@@ -30,7 +30,7 @@
       (let [[event-type event-data] (a/<!! event-ch)]
         (println "í¾‰ NEW EVENT! í¾‰")
         (println "Event type:" event-type)
-        ;;(clj-irc.core/send even-data)
+        ;; (clj-irc.core/send "new DS message")
         (println "Event data:" (pr-str (:content event-data)))
         (recur)))
     (finally
