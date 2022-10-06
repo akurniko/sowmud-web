@@ -6,29 +6,22 @@ Bot for Discord and IRC.
 
 Create relay between Discord and IRC.
 
-Get message from DS.
-And pass it to IRC.
+Get message from DS, pass it to IRC and vice versa.
 
 Clojure Discord and IRC.
 
 Use Okteto. Maybe Flyctl.
 Helm and Kubernetes manifest.
 
-Need to read token from file.
-There was a commit like this.
-
 # Clojure IRC
 https://github.com/obohrer/clj-irc
-Clojure IRC is working.
 
 # Running Locally
-
-Make sure you have Clojure installed.
-And Leiningen (or Clojure CLI tools).
+Clojure and Leiningen (or Clojure CLI tools) must be installed.
 
 ```sh
 $ lein repl
 ```
 
-Your app should now be connected to Libera chat and Discord.
+Your app is now connected to Libera chat and Discord.
 
