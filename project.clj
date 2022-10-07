@@ -5,7 +5,8 @@
                  [org.clojure/core.async   "1.5.648"]
                  [org.pircbotx/pircbotx "1.9"]
                  [com.github.discljord/discljord "1.3.1"]
-                 [org.clojure/spec.alpha "0.3.218"]]
+                 [org.clojure/spec.alpha "0.3.218"]
+                 [nrepl "1.0.0"]]
 
   :repl-options {:init-ns sowmud-web.core}
   :main sowmud-web.core)
