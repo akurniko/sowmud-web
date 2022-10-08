@@ -10,6 +10,8 @@ Get message from DS, pass it to IRC and vice versa.
 
 Clojure Discord and IRC.
 
+Datomic.
+
 Use Okteto. Maybe Flyctl.
 Helm and Kubernetes manifest.
 
