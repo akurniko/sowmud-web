@@ -11,6 +11,7 @@ Get message from DS, pass it to IRC and vice versa.
 Clojure Discord and IRC.
 
 Datomic.
+Emacs nREPL.
 
 Use Okteto. Maybe Flyctl.
 Helm and Kubernetes manifest.
