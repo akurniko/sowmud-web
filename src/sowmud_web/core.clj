@@ -15,6 +15,7 @@
 (def token (slurp "token"))
 (def intents #{:guilds :guild-messages})
 
+(defn -main
 (let [irc-ch        (a/chan)
       event-ch      (a/chan 100)
       connection-ch (discord-ws/connect-bot! token event-ch :intents intents)
@@ -37,7 +38,7 @@
       (discord-rest/stop-connection! message-ch)
       (discord-ws/disconnect-bot! connection-ch)
       (a/close!           event-ch)
-      (a/close!           irc-ch)))))
+      (a/close!           irc-ch))))))
 ;; (add-handler (fn[m r]
 ;;                  (r (str "You just said" (:content m)))))
 
