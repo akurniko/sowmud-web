@@ -12,6 +12,7 @@ Clojure Discord and IRC.
 
 Datomic.
 Emacs nREPL.
+DevSpace.
 
 Use Okteto. Maybe Flyctl.
 Helm and Kubernetes manifest.
