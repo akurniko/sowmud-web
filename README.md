@@ -13,6 +13,7 @@ Clojure Discord and IRC.
 Datomic.
 Emacs nREPL.
 DevSpace.
+Static typins stats.
 
 Use Okteto. Maybe Flyctl.
 Helm and Kubernetes manifest.
