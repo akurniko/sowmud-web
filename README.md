@@ -16,6 +16,7 @@ DevSpace.
 Static typins stats.
 
 Use Okteto. Maybe Flyctl.
+Okteto not good (storage too little).
 Helm and Kubernetes manifest.
 
 # Clojure IRC
