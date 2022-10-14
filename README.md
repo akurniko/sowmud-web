@@ -10,14 +10,7 @@ Get message from DS, pass it to IRC and vice versa.
 
 Clojure Discord and IRC.
 
-Datomic.
-Emacs nREPL.
-DevSpace.
-Static typins stats.
-
-Use Okteto. Maybe Flyctl.
-Okteto not good (storage too little).
-Helm and Kubernetes manifest.
+Oracle.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
