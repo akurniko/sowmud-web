@@ -12,6 +12,8 @@ Clojure Discord and IRC.
 
 Oracle.
 
+Bot algorithms on strings.
+
 # Clojure IRC
 https://github.com/obohrer/clj-irc
 
