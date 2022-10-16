@@ -13,6 +13,7 @@ Clojure Discord and IRC.
 Oracle.
 
 Bot algorithms on strings.
+How to search faster.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
