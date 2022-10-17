@@ -14,6 +14,7 @@ Oracle.
 
 Bot algorithms on strings.
 How to search faster.
+Type safety.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
