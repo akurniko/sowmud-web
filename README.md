@@ -16,6 +16,7 @@ Bot algorithms on strings.
 How to search faster.
 Type safety.
 Polymorphism.
+Maybe back to Lua.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
