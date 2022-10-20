@@ -17,6 +17,7 @@ How to search faster.
 Type safety.
 Polymorphism.
 Maybe back to Lua.
+How is Lua? Dynamic?
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
