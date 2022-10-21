@@ -18,6 +18,7 @@ Type safety.
 Polymorphism.
 Maybe back to Lua.
 How is Lua? Dynamic?
+Types?
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
