@@ -15,6 +15,7 @@ Oracle.
 Bot algorithms on strings.
 How to search faster.
 Type safety.
+Probably useless.
 Polymorphism.
 Maybe back to Lua.
 How is Lua? Dynamic?
