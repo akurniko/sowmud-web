@@ -20,6 +20,7 @@ Polymorphism.
 Maybe back to Lua.
 How is Lua? Dynamic?
 Types?
+Priorities needed.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
