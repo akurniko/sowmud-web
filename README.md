@@ -10,17 +10,10 @@ Get message from DS, pass it to IRC and vice versa.
 
 Clojure Discord and IRC.
 
-Oracle.
+Oracle. Mostly done.
 
 Bot algorithms on strings.
 How to search faster.
-Type safety.
-Probably useless.
-Polymorphism.
-Maybe back to Lua.
-How is Lua? Dynamic?
-Types?
-Priorities needed.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
