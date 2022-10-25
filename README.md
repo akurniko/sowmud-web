@@ -14,6 +14,7 @@ Oracle. Mostly done.
 
 Bot algorithms on strings.
 How to search faster.
+Brave and true needed.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
