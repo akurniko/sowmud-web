@@ -15,6 +15,7 @@ Oracle. Mostly done.
 Bot algorithms on strings.
 How to search faster.
 Brave and true needed.
+Oracle IRC needs SAML.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
