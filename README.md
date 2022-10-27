@@ -13,7 +13,7 @@ Clojure Discord and IRC.
 Oracle. Mostly done.
 
 Bot algorithms on strings.
-How to search faster.
+How to search faster regexp or tree.
 Brave and true needed.
 Oracle IRC needs SAML.
 
