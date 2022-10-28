@@ -11,11 +11,11 @@ Get message from DS, pass it to IRC and vice versa.
 Clojure Discord and IRC.
 
 Oracle. Mostly done.
+Oracle IRC needs SAML.
 
 Bot algorithms on strings.
 How to search faster regexp or tree.
 Brave and true needed.
-Oracle IRC needs SAML.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
