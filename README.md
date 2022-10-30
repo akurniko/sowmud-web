@@ -17,6 +17,7 @@ SAML page.
 Bot algorithms on strings.
 How to search faster regexp or tree.
 Brave and true needed.
+Emacs with lein.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
