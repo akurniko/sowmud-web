@@ -18,6 +18,7 @@ Bot algorithms on strings.
 How to search faster regexp or tree.
 Brave and true needed.
 Emacs with lein.
+Lein vs clojure tools.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
