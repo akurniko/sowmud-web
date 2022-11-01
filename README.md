@@ -19,6 +19,7 @@ How to search faster regexp or tree.
 Brave and true needed.
 Emacs with lein.
 Lein vs clojure tools.
+No progress in many months.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
