@@ -13,7 +13,6 @@ Clojure Discord and IRC.
 Oracle. Mostly done.
 Oracle IRC needs SAML.
 SAML page.
-Oracle is down.
 
 Bot algorithms on strings.
 How to search faster regexp or tree.
