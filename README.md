@@ -10,7 +10,6 @@ Get message from DS, pass it to IRC and vice versa.
 
 Clojure Discord and IRC.
 
-Oracle. Mostly done.
 Oracle IRC needs SAML.
 SAML page.
 
