@@ -15,15 +15,13 @@ SAML page.
 
 Bot algorithms on strings.
 How to search faster regexp or tree.
-Brave and true needed.
-Emacs with lein.
-Lein vs clojure tools.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
 
 # Running Locally
 Clojure and Leiningen (or Clojure CLI tools) must be installed.
+Lein vs clojure tools.
 
 ```sh
 $ lein repl
