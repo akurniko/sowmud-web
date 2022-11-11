@@ -15,6 +15,8 @@
 (def token (slurp "token"))
 (def intents #{:guilds :guild-messages})
 
+(def channels (chat common))
+
 (defn -main
 (let [irc-ch        (a/chan)
       event-ch      (a/chan 100)
