@@ -16,6 +16,8 @@
 (def intents #{:guilds :guild-messages})
 
 (def channels (chat common))
+;; chat - when message !chat
+;; common - when message !common
 
 (defn -main
 (let [irc-ch        (a/chan)
