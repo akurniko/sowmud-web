@@ -18,6 +18,7 @@
 (def channels (chat common))
 ;; chat - when message !chat
 ;; common - when message !common
+;; is irc channel same as discord
 
 (defn -main
 (let [irc-ch        (a/chan)
