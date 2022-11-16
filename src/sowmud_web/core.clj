@@ -19,7 +19,7 @@
 ;; chat - when message !chat
 ;; common - when message !common
 ;; is irc channel same as discord
-;; atom is DS channel
+;; DS channel is atom
 
 (defn -main
 (let [irc-ch        (a/chan)
