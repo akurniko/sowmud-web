@@ -17,6 +17,7 @@ Bot algorithms on strings.
 How to search faster regexp or tree.
 
 Async.
+Async vs atom.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
