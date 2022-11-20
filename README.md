@@ -15,6 +15,7 @@ SAML page.
 
 Bot algorithms on strings.
 How to search faster regexp or tree.
+Need to setup R.
 
 # Clojure IRC
 https://github.com/obohrer/clj-irc
