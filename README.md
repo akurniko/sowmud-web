@@ -29,4 +29,4 @@ $ lein repl
 
 Your app is now connected to Libera chat and Discord.
 
-Bot up - brings character up.
+!connect - brings character up.
