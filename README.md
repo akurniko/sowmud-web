@@ -29,5 +29,7 @@ $ lein repl
 
 Your app is now connected to Libera chat and Discord.
 
-!connect - brings character up.
+!connect - brings character up
 !smile - debugging smile
+
+!chat - specify chat channel
