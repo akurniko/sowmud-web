@@ -33,3 +33,4 @@ Your app is now connected to Libera chat and Discord.
 !smile - debugging smile
 
 !chat - specify chat channel
+!control - specify control channel
