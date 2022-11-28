@@ -35,3 +35,4 @@ Your app is now connected to Libera chat and Discord.
 !chat - specify chat channel
 !control - specify control channel
 !common - specify common chat channel
+!bylins - specify bylins chat channel
