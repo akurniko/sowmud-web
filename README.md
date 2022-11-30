@@ -29,10 +29,10 @@ $ lein repl
 
 Your app is now connected to Libera chat and Discord.
 
-!connect - brings character up
-!smile - debugging smile
+!connect - brings character up in the control channel
+!smile - debugging smile in the control channel
 
-!chat - specify chat channel
+!chat - specify chat channel for clan chat
 !control - specify control channel
 !common - specify common chat channel
 !bylins - specify bylins chat channel
