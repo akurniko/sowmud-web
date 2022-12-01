@@ -32,7 +32,7 @@ Your app is now connected to Libera chat and Discord.
 !connect - brings character up in the control channel
 !smile - debugging smile in the control channel
 
-!chat - specify chat channel for clan chat
+!chat - specify chat channel for clan chat, starts with '['
 !control - specify control channel
 !common - specify common chat channel
 !bylins - specify bylins chat channel
