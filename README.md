@@ -13,9 +13,6 @@ Clojure Discord and IRC.
 Oracle IRC needs SAML.
 SAML page.
 
-Bot algorithms on strings.
-How to search faster regexp or tree.
-
 # Clojure IRC
 https://github.com/obohrer/clj-irc
 
