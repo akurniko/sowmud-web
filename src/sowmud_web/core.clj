@@ -16,8 +16,6 @@
 (def intents #{:guilds :guild-messages})
 
 (def channels (chat common))
-;; chat - when message !chat
-;; common - when message !common
 ;; is irc channel same as discord
 ;; DS channel is atom
 
