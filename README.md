@@ -33,4 +33,4 @@ Your app is now connected to Libera chat and Discord.
 !control - specify control channel
 !common - specify common chat channel
 !bylins - specify bylins chat channel
-!auc - specify auction channel
+!auc - specify auction channel, check what it starts with
