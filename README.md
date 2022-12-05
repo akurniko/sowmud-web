@@ -31,6 +31,6 @@ Your app is now connected to Libera chat and Discord.
 
 !chat - specify chat channel for clan chat, starts with '['
 !control - specify control channel
-!common - specify common chat channel
+!common - specify common chat channel, starts with b
 !bylins - specify bylins chat channel
 !auc - specify auction channel, check what it starts with
