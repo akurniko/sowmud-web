@@ -17,7 +17,7 @@
 
 (def channels (chat common))
 ;; is irc channel same as discord
-;; DS channel is atom
+;; DS channel is atom, sync state
 
 (defn -main
 (let [irc-ch        (a/chan)
