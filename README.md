@@ -35,4 +35,4 @@ Your app is now connected to Libera chat and Discord.
 !bylins - specify bylins chat channel
 !auc - specify auction channel, check what it starts with
 
-Attach channels to vars.
+Map of channels.
