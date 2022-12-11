@@ -34,6 +34,6 @@ Your app is now connected to Libera chat and Discord.
 !common - specify common chat channel, starts with b
 !bylins - specify bylins chat channel
 !auc - specify auction channel, check what it starts with
-Push to map. Is map atom?
+Push to map. Is map atom? No it is immutable.
 
 Map of channels.
