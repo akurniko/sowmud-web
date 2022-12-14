@@ -17,6 +17,7 @@
 
 (def channels (chat common))
 ;; is irc channel same as discord
+;; irc channel is what?
 ;; DS channel is atom, sync state
 ;; async channel
 
