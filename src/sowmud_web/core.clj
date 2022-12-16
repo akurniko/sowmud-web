@@ -20,6 +20,7 @@
 ;; irc channel is what?
 ;; DS channel is atom, sync state
 ;; async channel
+;; is any async needed
 
 (defn -main
 (let [irc-ch        (a/chan)
