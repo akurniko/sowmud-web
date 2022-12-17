@@ -16,11 +16,6 @@
 (def intents #{:guilds :guild-messages})
 
 ;; (def channels (chat common))
-;; is irc channel same as discord
-;; irc channel is what?
-;; DS channel is atom, sync state
-;; async channel
-;; is any async needed
 
 (defn -main
 (let [irc-ch        (a/chan)
