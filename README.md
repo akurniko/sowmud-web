@@ -19,6 +19,7 @@ https://github.com/obohrer/clj-irc
 # Running Locally
 Clojure and Leiningen (or Clojure CLI tools) must be installed.
 Lein vs clojure tools.
+Tools.build.
 
 ```sh
 $ lein repl
