@@ -10,6 +10,19 @@ Get message from DS, pass it to IRC and vice versa.
 
 Clojure Discord and IRC.
 
+## For the bot
+!connect - brings character up in the control channel
+!smile - debugging smile in the control channel
+
+!chat - specify chat channel for clan chat, starts with '['
+!control - specify control channel
+!common - specify common chat channel, starts with b
+!bylins - specify bylins chat channel
+!auc - specify auction channel, check what it starts with
+
+Map of channels.
+
+## For the hosting
 Oracle IRC needs SAML.
 SAML page.
 
@@ -27,13 +40,3 @@ $ lein repl
 
 Your app is now connected to Libera chat and Discord.
 
-!connect - brings character up in the control channel
-!smile - debugging smile in the control channel
-
-!chat - specify chat channel for clan chat, starts with '['
-!control - specify control channel
-!common - specify common chat channel, starts with b
-!bylins - specify bylins chat channel
-!auc - specify auction channel, check what it starts with
-
-Map of channels.
