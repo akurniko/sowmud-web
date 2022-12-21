@@ -20,7 +20,7 @@ Clojure Discord and IRC.
 !bylins - specify bylins chat channel
 !auc - specify auction channel, check what it starts with
 
-Map of channels.
+Map of channels and correct forwarding of messages.
 
 ## For the hosting
 Oracle IRC needs SAML.
