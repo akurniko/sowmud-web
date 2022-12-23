@@ -41,5 +41,5 @@ $ lein repl
 Your app is now connected to Libera chat and Discord.
 
 # Future
-Elastic.
+Elastic. Store logs and index.
 
